@@ -11,12 +11,12 @@ Reporting of potential security threats
 
 ## Features
 
-## Generate sample network traffic data
+### Generate sample network traffic data
 Visualize traffic patterns (protocol distribution, packet sizes, hourly traffic)
 Detect anomalies in packet sizes using statistical methods
 Generate a summary report of potential security threats
 
-##Requirements
+## Requirements
 
 Python 3.7+
 pandas
@@ -24,17 +24,17 @@ numpy
 matplotlib
 scipy
 
-Installation
+## Installation
 
-Clone this repository:
+## Clone this repository:
 Copygit clone https://github.com/your-username/network-traffic-analysis.git
 cd network-traffic-analysis
 
-Install the required packages:
+## Install the required packages:
 Copypip install pandas numpy matplotlib scipy
 
 
-Usage
+## Usage
 Run the script using Python:
 Copypython network_traffic_analysis.py
 The script will generate sample data, perform analysis, display visualizations, and print a summary report.
