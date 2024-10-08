@@ -24,29 +24,15 @@ numpy
 matplotlib
 scipy
 
-## Installation
-
-## Clone this repository:
-Copygit clone https://github.com/your-username/network-traffic-analysis.git
-cd network-traffic-analysis
 
 ## Install the required packages:
 Copypip install pandas numpy matplotlib scipy
 
 
-## Usage
-Run the script using Python:
-Copypython network_traffic_analysis.py
-The script will generate sample data, perform analysis, display visualizations, and print a summary report.
-Customization
-You can customize the analysis by modifying the following parameters in the script:
+### Installation
 
-num_records in generate_sample_data(): Change the number of records generated
-threshold in detect_anomalies(): Adjust the sensitivity of anomaly detection
+Clone this repository:
 
-Contributing
-Contributions to improve the project are welcome. Please feel free to submit a Pull Request.
-License
-This project is open source and available under the MIT License.
-Disclaimer
-This project uses synthetic data and simplified analysis methods. For real-world network security applications, more advanced techniques and actual network data should be used.
+```bash
+https://github.com/your-username/network-traffic-analysis.git
+cd network-traffic-analysis
